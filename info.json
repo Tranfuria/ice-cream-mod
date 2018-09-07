@@ -2,8 +2,8 @@
   "name": "ice-cream",
   "version": "0.0.1",
   "title": "Ice Cream mod",
-  "author": "cube",
-  "contact": "",
-  "www": "",
-  "description": "This is the ice-cream mod, it changes the game to focus on producing ice-cream, which is used as 'currency'. The ice cream is used in the automator to trade for all the other things needed."
+  "author": "tranfuria",
+  "contact": "jasonrontaylor@gmail.com",
+  "www": "https://github.com/Tranfuria",
+  "description": "This is the ice-cream mod, it changes the game to focus on producing ice-cream, which is used as 'currency'. The ice cream is used to trade for all the other things needed."
 }
