@@ -1,4 +1,4 @@
-ice-cream-marketplace-mk1data:extend(
+data:extend(
   {
     {
       type = "recipe",
@@ -9,7 +9,7 @@ ice-cream-marketplace-mk1data:extend(
         {"ice-cream-vendor-1", 1} --TODO: create entity
       },
       result = "ice-cream-marketplace-mk1"
-    },
+  },
     {
       type = "recipe",
       name = "ice-cream-marketplace-mk2",
@@ -19,7 +19,7 @@ ice-cream-marketplace-mk1data:extend(
         {"ice-cream-vendor-2", 1} --TODO: create entity
       },
       result = "ice-cream-marketplace-mk2"
-    },
+  },
     {
       type = "recipe",
       name = "ice-cream-marketplace-mk3",
